@@ -15,7 +15,7 @@ Hi there! I'm Hazel — a full-stack web developer by day, VTuber and content cr
 
 ### 🧰 Current Projects
 - 🔄 A persistent **FFXIV-inspired Discord RPG** (custom turn-based combat, crafting, lore, and classes!)
-- 📦 Automated **QuickBooks sync** and Stripe customer creation for events and invoicing
+- 📦 Automated **QuickBooks sync** and **Stripe customer creation** for events and invoicing
 - 🔒 Building secure and scalable internal business tools
 - 🎥 Daily short-form content schedule, synced to game streams
 
