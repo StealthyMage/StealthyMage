@@ -1,13 +1,13 @@
 ### 🌿 Hazel Marrowind | Full Stack Developer | VTuber Witch | Tech Alchemist
 
-Hi there! I'm Hazel — a full-stack web developer by day, VTuber and content creator by night 🌙. I blend code and creativity like potions and herbs, conjuring up everything from RPG Discord bots to Minecraft servers and FFXIV-themed utilities.
+Hi there! I'm Hazel — a full-stack web developer by day, VTuber and content creator by night 🌙. I blend code and creativity like potions and herbs, conjuring up everything from RPG Discord bots to Minecraft servers and e-commerce websites.
 
 ---
 
 ### 🧪 What I Do
 - 🔧 **Languages**: JavaScript, PHP, SQL, HTML/CSS, Python
-- 🕸️ **Frameworks**: CakePHP, Node.js, Express, React
-- 🧠 **Projects**: Custom RPG systems, automation bots, modded Minecraft setups, CMS & ecommerce platforms
+- 🕸️ **Frameworks**: CakePHP, Node.js, Express
+- 🧠 **Projects**: Custom RPG systems, automated discord bots, modded Minecraft setups, CMS & ecommerce platforms
 - 🎮 **Games**: Final Fantasy XIV, Dead by Daylight, indie RPGs
 - 💬 **Content Creation**: YouTube Shorts, Twitch streams, Twitter silly posts
 
@@ -15,7 +15,7 @@ Hi there! I'm Hazel — a full-stack web developer by day, VTuber and content cr
 
 ### 🧰 Current Projects
 - 🔄 A persistent **FFXIV-inspired Discord RPG** (custom turn-based combat, crafting, lore, and classes!)
-- 📦 Automated **QuickBooks sync** for events and invoicing
+- 📦 Automated **QuickBooks sync** and Stripe customer creation for events and invoicing
 - 🔒 Building secure and scalable internal business tools
 - 🎥 Daily short-form content schedule, synced to game streams
 
